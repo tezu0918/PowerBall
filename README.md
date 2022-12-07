@@ -5,23 +5,21 @@ Powerball
 General Instructions: 
 •	Your assignment should be a Python program
 •	Your assignment will use what we have learned so far (e.g. conditional statements, array, array built-in functions, and loop). 
-•	You may also utilize the Internet as an extra source to help with your code. For example, you might need some useful built-in array functions, e.g. shuffle () if you use arrays to do this assignment. However, there are many correct ways to write a program.  All roads lead to Rome. 
-•	No excuse for late work.  
-•	All identical work will result in zero points for all parties involved. 
+•	You may also utilize the Internet as an extra source to help with your code. For example, you might need some useful built-in array functions, e.g. shuffle () if you use arrays to do this assignment. However, there are many correct ways to write a program.  All roads lead to Rome.   
 •	Your instructor can help with the explanation of this assignment but won’t help with debugging your code. 
 Instructions in detail: 
-Part I: Assignment file structure (15 points) 
-•	Create a folder called powerball (1 point) 
-•	Inside the powerball folder, you need to create a subfolder according what we have learned so far. (2 point).
-•	 The project must be implemented in OOP (12 point)
+Part I: Assignment file structure 
+•	Create a folder called powerball
+•	Inside the powerball folder, you need to create a subfolder according what we have learned so far.
+•	 The project must be implemented in OOP 
 •	Use comment in the relevant areas – Mandatory requirement.
 
   
-Part II:  The READ ME header information: (6 points) 
-•	The READ ME file must have a document type so that a user’s browser knows what version is used. (1 point) 
+Part II:  The READ ME header information:  
+•	The READ ME file must have a document type so that a user’s browser knows what version is used. 
 •	The READ ME file  must include all data , and metadata: 
-o	Title – PowerBall Project (1 point)   
-o	Metadata: description , keywords, and author. Author name is your full name. (4 points)   
+o	Title – PowerBall Project   
+o	Metadata: description , keywords, and author. Author name is your full name.   
 Part III: How does the Powerball game work in this assignment?
 •	The Powerball game in this assignment works differently from the real one like Mega Millions to get more chances to get favorite results. 
 •	The Powerball game includes two parts. 
@@ -31,21 +29,18 @@ o	Part two only has one number, the Powerball number, which is obtained randomly
 Here is one of the examples when I run my code.  
  
 
-Every time you run your program/page, your  would display the winning numbers, and your lucky numbers, and the result respectively. For example, after I rerun my program several times, I got this one: 
- 
-
-Sometimes if I am lucky, I can get this one: 
- 
-Grading: Today’s Powerball Winning Numbers (27 points) 
+Every time you run your program/page, your  would display the winning numbers, and your lucky numbers, and the result respectively. For example, after I rerun my program several times, I got this one:
+Sometimes if I am lucky, I can get this one:  
+Grading: Today’s Powerball Winning Numbers 
 •	The first five numbers (purple) are random numbers drawn from 20 numbers (11 points) – hard code results in zero points. 
 •	The first five numbers (purple) should be in ascending order (11 points) - hard code results in zero points.
 •	The Powerball number (gold) is a random number drawn from 10 numbers from 1 to 10. (5 points) - hard code results in zero points.
-Grading: Your lucky numbers: (32 points) 
+Grading: Your lucky numbers: 
 •	The first five numbers (purple) are random numbers drawn from 20 numbers (12 points) – hard code results in zero points. 
 •	The first five numbers (purple) should be in ascending order (15 points)  - hard code results in zero points.
 •	The Powerball number (gold) is a random number drawn from 10 numbers from 1 to 10 inclusively. (5 points) - hard code results in zero points.
 
-Part IV: Use if or switch conditional statements to display the result based on your lucky numbers and winning numbers. (20 points) 
+Part IV: Use if or switch conditional statements to display the result based on your lucky numbers and winning numbers. 
 •	Correct White Balls and the Powerball: Jackpot $324,000,000
 •	5 Correct White Balls, but no Powerball: $1,000,000
 •	4 Correct White Balls and the Powerball: $10,000
@@ -60,8 +55,5 @@ Part IV: Use if or switch conditional statements to display the result based on 
 How to deliever? 
 •	Deploy to Git
 •	Upload your code file to Engage before the deadline 
-You will get zero points 
-•	If you miss the deadline for the assignment. No excuse! 
-•	If you copy the other person’s work.
-•	If you let other(s) copy your work. 
+ 
 
