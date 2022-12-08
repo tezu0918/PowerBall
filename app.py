@@ -1,7 +1,7 @@
 from powerball import *
 
 def app():
-     clas3 = Childclass()
-     clas3.childfun()
+     clas3 = Optionc_Get()
+     clas3.optionfun()
 
 
