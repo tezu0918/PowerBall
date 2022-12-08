@@ -5,11 +5,11 @@ class Winning_Numbers():
     print(".....\33[35mGOOD_LUCK\33[0m...... ")
     # list of random number of powerball of winning_numbers from 1 up to 10
     powerball_no = random.randint(1, 10)
-    def win_no(self):
+    def random_no(self):
         print("Your random drawn winning Numbers:")
         # list of random number of winning_numbers from 1 up to 20
-        win_no = range(1, 20)
-        win_index = random.sample(win_no, k=5)  # k= 5 it is five random selected numbers from winning numbers
+        random_no = range(1, 20)
+        win_index = random.sample(random_no, k=5)  # k= 5 it is five random selected numbers from winning numbers
         # sort() used to order numbers in ascending order of winning numbers after print out the result
         win_index.sort()
         # this code is to give different colors for winning numbers and powerball numbers or random selected lottery no
@@ -32,8 +32,8 @@ class Optionc_Get(Winning_Numbers, Lucky_Numbers):
     # this will be how we check our winning_number numbers and lucky_numbers with powerball
     def optionfun(self):
         countwite = 0  # will count how many white balls we match
-        c1 = self.lucky_no()
-        d1 = self.win_no()
+        c1 = self.lucky_no()  # to call lucky_no class
+        d1 = self.random_no()   # to call win_no class
         # will check numbers for matches
         for i in c1:
             for j in d1:
