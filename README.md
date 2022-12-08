@@ -1,9 +1,12 @@
 # PowerBall
 
-Author_Name: Yeshiva Yalew
+Author_Name: 
+
+    Yeshiva Yalew
 Date : 08/12/2022
 
 Title:
+
     Python Programming Project
 
 General Instructions: 
